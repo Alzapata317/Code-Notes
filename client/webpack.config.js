@@ -31,10 +31,10 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: 'Code Notes',
-        short_name: 'Code',
+        short_name: 'Coder',
         description: 'Write down your code snippets',
-        background_color: '#',
-        theme_color: '#',
+        background_color: '#225ca3',
+        theme_color: '#225ca3',
         start_url: './',
         publicPath: './',
         icons: [
